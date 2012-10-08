@@ -2,6 +2,7 @@
 var x;
 
 
+
 function getLocation()
 {
   if (navigator.geolocation)
