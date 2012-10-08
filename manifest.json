@@ -1,0 +1,13 @@
+{
+  "name": "testGEO",
+  "version": "1.0", 
+  "manifest_version": 2,
+  "description": "Le truc du tutoriel",
+
+  "permissions" : [   "notifications","geolocation"],
+
+
+  "browser_action": {
+    "default_popup": "geodisplay.html"
+  	}
+}
